@@ -36,7 +36,8 @@ public class TCPclient {
 		modifiedsentence=inFromServer.readLine();
 		System.out.println("from server :  " + modifiedsentence); 
 		ClientSocket.close();    
-                System.out.println("");
+                System.out.println("Test");
+                
     
     
     
